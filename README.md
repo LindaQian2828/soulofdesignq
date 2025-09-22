@@ -1,27 +1,39 @@
-# soulofdesignq
-Linda'shop site and portfolio
-# Soul of DesignQ
+Soul of DesignQ
 
-Welcome to the official repository for **Soul of DesignQ** — a portfolio and shop site by Linda, showcasing minimal, geometric, and bold design work.
+Luxury in Simplicity
 
-## 🔹 About the Site
+Linda’s Portfolio & Shop
 
-This site features:
-- A unified branding style with bold color psychology and geometric clarity
-- A minimal interface for curated navigation and visual impact
-- Portfolio showcasing fashion sketches, branding layouts, and modular assets
-- A services page offering portfolio creation and bilingual event materials
-- A contact page for inquiries and collaboration
+Welcome to Soul of DesignQ — a creative space by Linda, combining a design portfolio with a shop. Here you’ll find bold, minimal, and geometric design showcased through fashion sketches, branding, and lifestyle products.
 
-## 🔹 Technologies Used
+🔹 About the Site
 
-Built in Adobe Dreamweaver using HTML/CSS.  
-Hosted via GitHub Pages and optionally linked to [soulofdesignq.com](https://soulofdesignq.com).
+This site offers:
 
-## 🔹 Author
+A strong, unified visual style with bold colors and clean geometry
 
-**Linda Gates**  
-Designer & Brand Strategist  
-Based in Brisbane, Australia
+A portfolio of fashion sketches, branding layouts, and modular design work
 
-Feel free to explore, fork, or contact me for collaboration.
+A shop (current & upcoming) with books, branded bags, T-shirts, hats, and more
+
+Future designs for KDP and print-on-demand products
+
+Videos to showcase and promote designs
+
+Services for portfolio creation and bilingual event materials
+
+A contact page for questions and collaborations
+
+🔹 Tech
+
+Built with Adobe Dreamweaver (HTML/CSS).
+Hosted on GitHub Pages, linked to soulofdesignq.com
+.
+
+🔹 Author
+
+Linda Qian
+Designer & Founder of Soul of DesignQ
+Brisbane, Australia
+
+Explore, shop, or connect for collaboration.
