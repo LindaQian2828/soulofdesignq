@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Soul of DesignQ — Home</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="CSS/styles.css">
+
+
+  <style>
+    body{margin:0;font-family:Segoe UI,Arial,sans-serif;background:#0f1115;color:#e8edf2;line-height:1.6}
+    header,footer{padding:24px}
+    header{background:#121621;border-bottom:1px solid #1e2430}
+    nav a{color:#a8c6ff;margin-right:16px;text-decoration:none}
+    .wrap{max-width:960px;margin:0 auto;padding:32px 24px}
+    .hero{padding:48px 0}
+    .btn{display:inline-block;padding:10px 16px;background:#1f6feb;color:#fff;border-radius:6px;text-decoration:none}
+    .btn:hover{background:#165dc7}
+    h1{font-weight:600;letter-spacing:.5px}
+    .grid{display:grid;gap:20px;grid-template-columns:repeat(auto-fit,minmax(240px,1fr))}
+    .card{background:#141a24;border:1px solid #20283a;border-radius:10px;padding:20px}
+  </style>
+</head>
+<body>
+  <header class="wrap">
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="shop.html">Shop</a>
+      <a href="portfolio.html">Portfolio</a>
+      <a href="services.html">Services</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <h1>Soul of DesignQ</h1>
+      <p>Minimal, geometric, and bold — a portfolio and shop by Linda.</p>
+      <a class="btn" href="shop.html">Shop now</a>
+    </section>
+
+    <section class="grid">
+      <div class="card">
+        <h3>Portfolio</h3>
+        <p>Selected branding, fashion sketches, and modular layouts.</p>
+        <a class="btn" href="portfolio.html">View work</a>
+      </div>
+      <div class="card">
+        <h3>Services</h3>
+        <p>Portfolio creation, layout design, and bilingual event materials.</p>
+        <a class="btn" href="services.html">Learn more</a>
+      </div>
+      <div class="card">
+        <h3>Shop</h3>
+        <p>Print-on-demand pieces curated to the brand’s palette.</p>
+        <a class="btn" href="shop.html">Browse shop</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <small>© <span id="year"></span> Soul of DesignQ. All rights reserved.</small>
+    <script>document.getElementById('year').textContent=new Date().getFullYear()</script>
+  </footer>
+</body>
+</html>
+
